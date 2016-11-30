@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /adisonpartners/wp-admin/
+Allow: /adisonpartners/wp-admin/admin-ajax.php
